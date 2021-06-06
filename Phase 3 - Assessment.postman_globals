@@ -1,0 +1,24 @@
+{
+	"id": "be4a8e80-b18d-494a-8ea7-bccac4b08dce",
+	"values": [
+		{
+			"key": "gHostUrl",
+			"value": "https://reqres.in",
+			"enabled": true
+		},
+		{
+			"key": "authToken",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "currentUserId",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"name": "Damian Tests Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2021-06-05T15:08:50.078Z",
+	"_postman_exported_using": "Postman/8.5.1"
+}
